@@ -1,0 +1,850 @@
+[
+  {
+    "key": "n2e9575689529",
+    "name": "ソフトウェア開発201の鉄則:原理125:テスティング:エラーの原因を分析せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc7f744847e7b",
+    "name": "ソフトウェア開発201の鉄則  原理101:コーディング:深い入れ子を作ってはいけない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n3233dd0b2a8e",
+    "name": "ソフトウェア開発201の鉄則  原理104:コーディング:言語についての知識はそれほど重要ではない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ncc30956903e1",
+    "name": "ソフトウェア開発201の鉄則 原理105:コーディング: プログラムの体裁を整えよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb3514b49dc89",
+    "name": "ソフトウェア開発201の鉄則 原理107:テスティング: テスト項目を要求項目と関係づけよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ne804db67a4c9",
+    "name": "ソフトウェア開発201の鉄則 原理109:コーディング:原理100:構造化されたコードは必ずしもよいコードではない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n5b06a2ed5edd",
+    "name": "ソフトウェア開発201の鉄則 原理109:テスティング:自分のソフトウェアを自分でテストするな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ndd2590bc4eb3",
+    "name": "ソフトウェア開発201の鉄則: 原理10:一般:一つは放棄するつもりでいよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nd428e17f433a",
+    "name": "ソフトウェア開発201の鉄則 原理111:テスティング: テスティングは結果の存在をあらわにするだけだ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nea3f5513a02b",
+    "name": "ソフトウェア開発201の鉄則 原理114:テスティング:半分のエラーは15%のモジュールで発見される",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n3a6baf1d1962",
+    "name": "ソフトウェア開発201の鉄則: 原理11:一般:適切な型のプロトタイプを開発せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n5e1856d6dd89",
+    "name": "ソフトウェア開発201の鉄則 原理126:コーディング:エラーを個人のものにするな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ncd33db3feda0",
+    "name": "ソフトウェア開発201の鉄則:  原理127：管理:優れた管理は優れた技術よりもずっと重要だ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nbe35edeec6fe",
+    "name": "ソフトウェア開発201の鉄則 原理128:管理:適切な解決策を用いよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n59b90ce1e98b",
+    "name": "ソフトウェア開発201の鉄則 原理129:管理:読んだことのすべてを信じるな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nda948041118d",
+    "name": "ソフトウェア開発201の鉄則: 原理12:一般:プロトタイプに適切な機能を組み込め",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n44d585d15f24",
+    "name": "ソフトウェア開発201の鉄則 原理134:管理:部下を信頼せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n13e771550e63",
+    "name": "ソフトウェア開発201の鉄則 原理135 管理:素晴らしい仕事を期待せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n44ba7458a472",
+    "name": "ソフトウェア開発201の鉄則: 原理136:管理:うまく話し合う技術は必須である",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n256ce3fc6c6f",
+    "name": "ソフトウェア開発201の鉄則: 原理137:管理:水運びの仕事をせよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ne53c12bb9da0",
+    "name": "ソフトウェア開発201の鉄則 原理138:管理人は思いもよらない動機で仕事をしている",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ne7cf8b9ed318",
+    "name": "ソフトウェア開発201の鉄則: 原理139:管理:オフィスを静かに保て",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n92fa9087173f",
+    "name": "ソフトウェア開発201の鉄則: 原理13:一般:使い捨て型のプロトタイプは手早く作れ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n4b1be23a5cf2",
+    "name": "ソフトウェア開発201の鉄則 原理147:管理:非現実的な完成予定日を設定するな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n774377731bdc",
+    "name": "ソフトウェア開発201の鉄則: 原理14:一般:システムを漸進的に成長させるように計画せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n41f21db70df8",
+    "name": "ソフトウェア開発201の鉄則 原則157:管理:適切な資源を割り当てよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n99a34829359d",
+    "name": "ソフトウェア開発201の鉄則: 原理15:一般:見れば見るほどもっとよいものが欲しくなる",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n2c466712338d",
+    "name": "ソフトウェア開発201の鉄則: 管理:原理161:上位10のリスク項目を知れ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n8e44e5dfb4e2",
+    "name": "ソフトウェア開発201の鉄則: 原理16:一般:開発期間中の変更は避けられない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n35133171e1ca",
+    "name": "ソフトウェア開発201の鉄則  原理172: 管理: プロジェクトの事後検討会（反省会）を実施せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n98035200158f",
+    "name": "ソフトウェア開発201の鉄則: 原理173:製品保証:製品保証",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nd5852983dcce",
+    "name": "ソフトウェア開発201の鉄則: 原理17:一般:可能なら開発するより購入せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n54d7e7e7768c",
+    "name": "ソフトウェア開発201の鉄則 原理185:進化:ソフトウェアは変化し続ける",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "na5353e97ce0e",
+    "name": "ソフトウェア開発201の鉄則 原則185:進化:ソフトウェアは進化し続ける",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nec23b9450b45",
+    "name": "ソフトウェア開発201の鉄則  原理187:製品保証:壊れていないなら直すな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n925af2ca194d",
+    "name": "ソフトウェア開発201の鉄則  原理188:進化の原理:現象を直すのではなく問題を直せ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n02c1b3b3c0e1",
+    "name": "ソフトウェア開発201の鉄則: 原理18:一般:ユーザ用のマニュアルが短くて済むようにソフトウェアを作成せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nf86c843e5028",
+    "name": "ソフトウェア開発201の鉄則: 原理199:進化:最適化する前にプロファイラを使え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc72b4f95b1db",
+    "name": "ソフトウェア開発201の鉄則: 原理19:一般:どんな複雑な問題にも解決策がある、と思うのは誤り",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "na98f7fea5966",
+    "name": "ソフトウェア開発201の鉄則  原理1:一般:品質第一",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n8e7db9f46a11",
+    "name": "ソフトウェア開発201の鉄則: 原理20:一般:仮定を記録せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n75beadb9be4d",
+    "name": "ソフトウェア開発201の鉄則: 原理21:一般:異なるフェーズには異なる言語を",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nd3ead6b85dd7",
+    "name": "ソフトウェア開発201の鉄則: 原理22:一般:ツールを使う前に技法を学べ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n5c52c0cec96c",
+    "name": "ソフトウェア開発201の鉄則: 一般:原理23:ツールを使え、ただし現実的に",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nffb129cdb430",
+    "name": "ソフトウェア開発201の鉄則: 一般:原理24:ソフトウェア・ツールを優れた技術者に与えよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n9602a6b1c659",
+    "name": "ソフトウェア開発201の鉄則: 一般:原理25:CASEツールは高価である",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nd512b862397e",
+    "name": "ソフトウェア開発201の鉄則: 一般:原理26:「いつ使うかを知る」ことは、どう使うかを知ることと同じくらい重要だ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n25ba32b1b1b8",
+    "name": "ソフトウェア開発201の鉄則: 一般:原理27:目標を達成したらそこで止めよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb58c97e4ab64",
+    "name": "ソフトウェア開発201の鉄則  原理2:一般: 品質の定義は人によって異なる",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n18e6d73aeb1d",
+    "name": "ソフトウェア開発201の鉄則 原理31:一般:新技術を無視するな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nae2eaf5f1343",
+    "name": "ソフトウェア開発201の鉄則 原理32:一般:文章化規格を使え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n4e003acfbd5f",
+    "name": "ソフトウェア開発201の鉄則 原理33:一般:どの文書にも用語集が必要だ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n7300cc433481",
+    "name": "ソフトウェア開発201の鉄則 原理34:一般:どの文書にも索引が必要だ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb729e84c25cf",
+    "name": "ソフトウェア開発201の鉄則 原理35:一般:同じ概念には同じ言葉を使え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n82100eeddf61",
+    "name": "ソフトウェア開発201の鉄則 原理36:研究がおわってからの技術移転はうまくいかない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nbc9d0f037ab6",
+    "name": "ソフトウェア開発201の鉄則 原理37:責任をとれ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc45c8dbf4fb1",
+    "name": "ソフトウェア開発201の鉄則  原理38:要求分析:いい加減な要求仕様からはいい加減なコスト見積もりしかできない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n6149169387fd",
+    "name": "ソフトウェア開発201の鉄則 原則39:要求分析:要求仕様を書く前に問題を特定せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n2ddec10d51d1",
+    "name": "ソフトウェア開発201の鉄則  原理3:一般: 生産性と品質は不可分である",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n939cf6eda3e0",
+    "name": "ソフトウェア開発201の鉄則: 原理40:要求:要求について今できることは何でもやれ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nf28076006389",
+    "name": "ソフトウェア開発201の鉄則 原理40:要求:要求について今できることは何でもやれ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "ne8eec3586514",
+    "name": "ソフトウェア開発201の鉄則  原理41:要求:いますぐ要求仕様書の誤りを直せ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nf1afbbf6adb6",
+    "name": "ソフトウェア開発201の鉄則 原理42:要求:プロトタイプはユーザー・インタフェース選択のリスクを減らす",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc567193f41e6",
+    "name": "ソフトウェア開発201の鉄則 原理43:要求:なぜこの要求項目が含まれたかを記憶せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nfd86625cbad0",
+    "name": "ソフトウェア開発201の鉄則:  原理4:一般:高品質のソフトウェアは可能である",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nd12f9fdb5392",
+    "name": "ソフトウェア開発201の鉄則 原理50:要求:要求に優先順位をつけよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n895b9682e99d",
+    "name": "ソフトウェア開発201の鉄則 原理51:要求:簡明に書け",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n8b4b33c5ea39",
+    "name": "ソフトウェア開発201の鉄則 原理52:要求:\tどの要求項目にも識別に番号を付けよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc7e3c1c19cc4",
+    "name": "ソフトウェア開発201の鉄則 原則5:一般:品質を後からとってつけるようなことはするな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb1a059fb5ff8",
+    "name": "ソフトウェア開発201の鉄則 原理65:設計:カプセル化せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n39ab463525e7",
+    "name": "ソフトウェア開発201の鉄則  原理66:設計:同じものを何度も発明するな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n46712f028610",
+    "name": "ソフトウェア開発201の鉄則: 原理67:設計:単純に作れ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n5d8b52151204",
+    "name": "ソフトウェア開発201の鉄則 原理75:設計:保守が容易なように設計せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n0e392f557dab",
+    "name": "ソフトウェア開発201の鉄則 原理76:設計:エラー修正が容易なように設計せよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n7dc3aacc05bf",
+    "name": "ソフトウェア開発201の鉄則: 原理84:設計:巨額の投資をしなくても再利用ができる",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "na08cd0a961dd",
+    "name": "ソフトウェア開発201の鉄則:  原理85:設計:「ガーベッジ・イン、ガーベッジ・アウト」は正しくない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc5009fa6e263",
+    "name": "ソフトウェア開発201の鉄則  原則87:コーディング:トリックを使うな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n26c27c09fb6f",
+    "name": "ソフトウェア開発201の鉄則: 原理89:コーディング:トップダウンで読めるように書け",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n08b152e0c01d",
+    "name": "ソフトウェア開発201の鉄則 原理92:コーディング: 人のことを第一に考えてプログラムを書け",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n226fd33ef476",
+    "name": "ソフトウェア開発201の鉄則 原理94:コーディング: 速くする前に正しいものにせよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n5447186e2bb3",
+    "name": "ソフトウェア開発201の鉄則  原理95:コーディング:コードを仕上げる前にコメントを加えよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n51a2b419c851",
+    "name": "ソフトウェア開発201の鉄則: 原理9:一般:開発者と顧客の見返りを合わせよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n9b49c91b3251",
+    "name": "ソフトウェア開発201の鉄則  原理141:管理:ソフトウェア技術者の能力差は大きい",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n611d1d0bc539",
+    "name": "ソフトウェア開発201の鉄則  原理29:一般:組織の評価と個人の評価を合わせよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n731ef4a9e504",
+    "name": "ソフトウェア開発201の鉄則  原理30:レミング（一時の流行）は心して使え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n4f102d125a4d",
+    "name": "ソフトウェア開発201の鉄則:  原理6:一般:信頼性の低いソフトウェアは性能が悪いソフトウェアより手に負えない",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n2f096fe631f4",
+    "name": "ソフトウェア開発201の鉄則:  原理7:一般:製品のプロトタイプを早めに顧客に納めよ",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n4af53bf2ca12",
+    "name": "ソフトウェア開発201の鉄則  原則88:コーディング:グローバル変数を使うな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n37960de7afd2",
+    "name": "ソフトウェア開発201の鉄則:  原理8:一般:顧客やユーザとよく話し合え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n2a7ab9b501a3",
+    "name": "ソフトウェア開発201の鉄則  原理91:コーディング: 意味のある名称を使え",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb62f495a5b07",
+    "name": "[海外渡航・第23回] San Diego / U.S.A (2015年3月29日〜4月4日)",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n294507fd1d11",
+    "name": "[海外渡航・第24回] Hawaii / USA (2019年7月25日〜7月31日)",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n56ffa816174f",
+    "name": "[海外渡航・第24回] San Diego / U.S.A (2016年1月27日〜1月31日)",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n78908aceddc9",
+    "name": "AWS請求額5千ドル : アカウントのセキュリティ設定は「絶対に」端折るな",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n952c0df2e627",
+    "name": "Dockerのプロキシ設定",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n8f49bb77b73f",
+    "name": "IoT : 2020年にむけての5つの予想",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n80042ff5b430",
+    "name": "IoT : 2020年にIoT活用で恩恵を受ける産業",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nb583f7918c7b",
+    "name": "IoT : アニマルウェルフェア",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n95030bcf7753",
+    "name": "父親のPTA活動奮闘記 Vol #2 ~ 黒一点",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n8fcd7f4bff88",
+    "name": "父親のPTA活動奮闘記 Vol #3 ~ ママさんのパソコン操作",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n2b969b0624ee",
+    "name": "父親のPTA活動奮闘記 ~ はじめに",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nefe36e9af38b",
+    "name": "”PermissionDispatcher”でAndroidパーミッションをラクに実装！",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n0cf96734aa2f",
+    "name": "「ウェブエンジニア」を「エンジニア」と称することに対する違和感",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n11c638b087eb",
+    "name": "恕",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "n682839f74721",
+    "name": "キャッシュレス・ワールド",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  },
+  {
+    "key": "nc372c21bfa57",
+    "name": "「脳」面白いな〜",
+    "noteUrl": null,
+    "publishAt": null,
+    "createdAt": null,
+    "status": "published"
+  }
+]
